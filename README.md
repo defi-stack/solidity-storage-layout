@@ -1,0 +1,1 @@
+# solidity-storage-layout
