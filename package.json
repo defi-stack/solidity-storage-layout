@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "compile": "hardhat compile",
+    "storage": "hardhat run ./scripts/exportLayout.js"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "hardhat": "^2.6.1",
+    "hardhat-storage-layout": "^0.1.6"
+  },
+  "devDependencies": {
+    "ethers": "^5.4.5"
+  }
+}
