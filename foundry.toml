@@ -1,0 +1,6 @@
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+[default]
+src = 'contracts'
+test = 'tests'
+out = 'dist'
+libs = ['lib']
