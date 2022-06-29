@@ -10,7 +10,9 @@ Solidity use 2^256 slots to store state variables. Difference type has its own w
 - [x] Dynamic Size Array: `DynamicArray.sol`
 - [x] Mapping: `MappingLayout.sol`
 - [x] String: `StringLayout.sol`
+- [ ] struct
 - [ ] Inheritance: `InheritLayout.sol`
+- [x] unfilled slot layout: `Bytes4DynamicArray.sol` and `Bytes4Mapping.sol`
 
 ## Storage Collision
 
